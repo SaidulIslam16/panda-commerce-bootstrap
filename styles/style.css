@@ -14,6 +14,10 @@ width: 150px;
     padding: 9px 25px;
 }
 
+.panda-btn-buynow:hover{
+    color: white;
+}
+
 /* .col-sm-12{
     text-align: center;
 } */
